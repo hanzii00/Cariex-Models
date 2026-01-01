@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Machine Learning model files
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+trained_models/
+
+# Data and uploads
+media/
+uploads/
+*.csv
+*.zip
+*.npy
+*.pkl
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
+
+# VSCode and IDEs
+.vscode/
+.idea/
